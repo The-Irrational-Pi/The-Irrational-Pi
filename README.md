@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Dimitris
+
 - 👀 I’m interested in Macroeconomics and Financial Markets
+
 - 🌱 I’m currently learning VAR model Estimation and Forecasting
-- 📫 How to reach me dpapoulakos@upatras.gr
+
+- 📫 You can reach me at dpapoulakos@upatras.gr
+
+- 🤖 Working with Jupiter Notebook and Spyder
+
+- ☠️ Python programming
 
 <!---
 The-Irrational-Pi/The-Irrational-Pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
