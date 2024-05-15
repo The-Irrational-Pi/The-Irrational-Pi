@@ -10,7 +10,7 @@
 
 ☠️ Python programming
 
-  My Markets view is Active with Passive Investments, Passive with Active Management
+🦬 My Markets view is Active with Passive Investments, Passive with Active Management
 
 
 <!---
