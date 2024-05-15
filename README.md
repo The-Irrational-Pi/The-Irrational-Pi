@@ -8,8 +8,6 @@
 
 🤖 Working with Python - Jupiter Notebook and Spyder
 
-☠️ My Market view is Active with Passive Investments, Passive with Active Management
-
 <!---
 The-Irrational-Pi/The-Irrational-Pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
