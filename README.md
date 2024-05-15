@@ -6,12 +6,9 @@
 
 📫 You can reach me at dpapoulakos@upatras.gr
 
-🤖 Working with Jupiter Notebook and Spyder
+🤖 Working with Python - Jupiter Notebook and Spyder
 
-☠️ Python programming
-
-🦬 My Markets view is Active with Passive Investments, Passive with Active Management
-
+☠️ My Market view is Active with Passive Investments, Passive with Active Management
 
 <!---
 The-Irrational-Pi/The-Irrational-Pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
