@@ -1,4 +1,4 @@
-👋 Hi, I’m Dimitris
+👋 Hi, I’m Dimitris!
 
 👀 I’m interested in Macroeconomics and Financial Markets
 
