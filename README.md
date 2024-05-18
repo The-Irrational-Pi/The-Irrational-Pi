@@ -6,7 +6,7 @@
 
 📫 You can reach me at dpapoulakos@upatras.gr
 
-🤖 Working with Python - Jupiter Notebook and Spyder
+🤖 Working with Python using Jupiter Notebook and Spyder
 
 <!---
 The-Irrational-Pi/The-Irrational-Pi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
