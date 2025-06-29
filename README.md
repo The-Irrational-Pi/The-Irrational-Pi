@@ -1,4 +1,3 @@
-👋 Hi, I’m Dimitris
 
 🎓 I'm a researcher with interests in macroeconomics, financial markets and time series modeling.
 
@@ -24,3 +23,5 @@ https://scholar.google.gr/citations?user=z2G9ss4AAAAJ&hl=en
 
 📬 How to Reach Me
 - ✉️ dpapoulakos@upatras.gr  
+
+
