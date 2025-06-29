@@ -1,7 +1,9 @@
 👋 Hi, I’m Dimitris
 
-🎓 I'm a researcher with interests in macroeconomics, financial markets and time series modeling.  
+🎓 I'm a researcher with interests in macroeconomics, financial markets and time series modeling.
+
 💼 Currently working on VAR models including SVAR and TVP VAR, using MATLAB and Python.  
+
 📚 I’m especially interested in applications of VAR models in economic forecasting.
 
 ---
