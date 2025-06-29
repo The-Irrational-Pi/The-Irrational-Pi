@@ -16,8 +16,8 @@
 - Modeling economic shocks using VARs  
 
 📦 Early Work in Commodity Currencies 
-The Australian dollar and gold prices, The Open Economics Journal (2013).
-The New Zealand dollar and milk prices, IJFSM (2013).
+- The Australian dollar and gold prices, The Open Economics Journal (2013).
+- The New Zealand dollar and milk prices, IJFSM (2013).
 
 Research Profile
 https://scholar.google.gr/citations?user=z2G9ss4AAAAJ&hl=en
