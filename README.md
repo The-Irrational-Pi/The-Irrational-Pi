@@ -1,9 +1,11 @@
 
 🎓 I'm a researcher with interests in macroeconomics, financial markets and time series modeling.
 
-💼 Currently working on VAR models including SVAR and TVP VAR, using MATLAB and Python.  
+💼  I have 15+ years of experience across diverse roles and firms, including PwC, ING, NN, and Saxo Bank. 
 
-📚 I’m especially interested in applications of VAR models in economic forecasting.
+📚 I’m especially interested in applications of VAR models in economic forecasting. Currently working on VAR models including SVAR and TVP VAR, using MATLAB and Python. 
+
+
 
 ---
 
