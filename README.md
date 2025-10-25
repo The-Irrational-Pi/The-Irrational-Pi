@@ -3,9 +3,7 @@
 
 💼  I have 15+ years of experience across diverse roles and firms, including PwC, ING, NN, and Saxo Bank. 
 
-📚 I’m especially interested in applications of VAR models in economic forecasting. Currently working on VAR models including SVAR and TVP VAR, using MATLAB and Python. 
-
-
+📚 I’m especially interested in applications of VAR models in economic forecasting. 
 
 ---
 
@@ -14,7 +12,7 @@
 - Eviews
 
 📦 Current Projects
-- Modeling economic shocks using VARs  
+- Modeling economic shocks using VAR type models including SVAR and TVP VAR. 
 
 📢 Early Work in Commodity Currencies 
 - The Australian dollar and gold prices, The Open Economics Journal (2013).
