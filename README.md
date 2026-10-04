@@ -1,5 +1,5 @@
 
-🎓 I'm a researcher with interests in macroeconomics, financial markets and time series modeling.
+🎓 I'm a doctoral researcher with interests in macroeconomics, financial markets and time series modeling.
 
 💼  I have 15+ years of experience across diverse roles and firms, including PwC, ING, and Saxo Bank. 
 
