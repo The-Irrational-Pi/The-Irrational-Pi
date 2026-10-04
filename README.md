@@ -21,9 +21,6 @@
 💡 Research Profile
 https://scholar.google.gr/citations?user=z2G9ss4AAAAJ&hl=en
 
-🚨 LinkedIn Profile
-https://www.linkedin.com/in/dimpapoulakos/
-
 📬 How to Reach Me
 - ✉️ dpapoulakos@upatras.gr  
 
