@@ -12,6 +12,7 @@
 
 📦 Current Projects
 - Modeling economic shocks using VAR type models including SVAR and TVP VAR.
+- I keep my active projects in **private repositories**. 
 - Happy to share selected examples on request.
 
 📢 Early Work in Commodity Currencies 
